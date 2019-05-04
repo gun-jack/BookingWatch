@@ -1,2 +1,0 @@
-# BookingWatch
-Created with CodeSandbox
